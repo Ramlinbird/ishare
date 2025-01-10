@@ -1,2 +1,2 @@
 - `Building effective agents _ Anthropic.pdf`：Anthropic介绍AI代理的文章，https://mp.weixin.qq.com/s/LWcoMrSTaXMWx2YwwM7swQ 中译比较不错
-- `[Agents_Google.pdf](Agents_Google.pdf)`：中译可以参考这篇博客，https://www.cnblogs.com/lusuo/p/18663007
+- `Agents_Google.pdf`：中译可以参考这篇博客，https://www.cnblogs.com/lusuo/p/18663007

@@ -1,0 +1,1 @@
+- `Building effective agents _ Anthropic.pdf`：Anthropic介绍AI代理的文章，https://mp.weixin.qq.com/s/LWcoMrSTaXMWx2YwwM7swQ 中译比较不错。
